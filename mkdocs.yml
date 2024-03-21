@@ -76,6 +76,7 @@ nav:
             - '': builder/index.md
             - 'Quick Start Guide': builder/quickstartguide.md
             - 'Training': builder/training.md
+            - 'Glossary': builder/glossary.md
 
 
    
