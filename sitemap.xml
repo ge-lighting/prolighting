@@ -61,6 +61,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://example.com/product/glossary/</loc>
+         <lastmod>2024-03-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://example.com/product/wireless_dimmers_switches/</loc>
          <lastmod>2024-03-21</lastmod>
          <changefreq>daily</changefreq>
