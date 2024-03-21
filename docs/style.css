@@ -1,0 +1,18 @@
+h1 {
+  color: red;
+}
+.md-typeset h1 {
+	color: purple;
+}
+.md-typeset h2 {
+	font-weight: bold;
+	font-size: 18px;
+}
+
+
+.md-nav__item--section  {
+	font-size:18px;
+	color: black;
+	#font-weight: bold;
+}
+
