@@ -4,6 +4,7 @@ site_url: https://example.com
 
 theme:
     name: material
+    logo: images/logo.png
     palette:
      #   scheme: savants
     - primary: light blue
@@ -78,10 +79,6 @@ nav:
             - 'Training': builder/training.md
             - 'Glossary': builder/glossary.md
 
-
-   
-    #extra_css:
-     #   - stylesheets/extra.css
      
 extra_css:
     - style.css
@@ -90,3 +87,5 @@ markdown_extensions:
   - attr_list
 
   
+    #extra_css:
+     #   - stylesheets/extra.css
