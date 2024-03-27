@@ -1,9 +1,17 @@
-# Wiring
+# Installation 
 
-## QRG PDFs 
+## Install the Network or Use the Existing one
 
-Keypad & Dimmers
-[Wireless Keypad and Dimmer QRG](Echo and Metro Wireless Configurable Keypads and Dimmers QRG.pdf)
+## Wire up the keypads, thinking through load locations and load types
 
-Wireless Switches
-[Wireless Swith QRG](Echo and Metro Wireless Keypad Switch QRG.pdf)
+## Onboard the keypads, switches and dimmers to Wi-Fi via BLE
+
+## Discovery them in Blueprint on Wi-Fi
+
+## Configure Control Behaviors
+1. Lightbanks (Groups of loads)
+2. Scenes
+
+## Assign Scenes, Lightbanks and Loads to Keypads 
+
+

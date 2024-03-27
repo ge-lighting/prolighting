@@ -12,8 +12,11 @@
 * ![](OpenTemplate.png)
 * Click File->"Save As..." and save the file to a unique name, to a Folder of your choice (Documents/MyBlueprintFiles)
 
+## Onboarding
+* Open the SP&L and get the devices onto Wi-Fi.  They will be discovered in the app via BLE.  You must onboard one of the wireless dimmers, switches or keypads.  After that, you can use the RAD protocol to have the devices self-propagate the credentials to all of the devices in the home:
+* [RAD](RAD.pdf)
 
-## Discovery
+## Wi-Fi Discovery
 * Press the slide out icon at the top right: ![](FirstLightingManager.png)
 * Then click Discover
 * ![](Discovery.png)
