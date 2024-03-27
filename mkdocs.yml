@@ -73,8 +73,9 @@ nav:
    
    
     - 'Builder':
-        - Wiring:
+        - Installation:
             - '': builder/index.md
+            - 'Wiring': builder/wiring.md
             - 'Quick Start Guide': builder/quickstartguide.md
             - 'Training': builder/training.md
             - 'Glossary': builder/glossary.md
