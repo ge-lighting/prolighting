@@ -1,7 +1,9 @@
 # Wiring
 
-* Login to SAM (Savant Application Manager)
-* Select Latest daVinci or SavantOS release.  Download and Activate it.
-* Open Blueprint and select the default Template
-* Discover and add your devices in the Lighting Manager
+## QRG PDFs 
 
+Keypad & Dimmers
+[Wireless Keypad and Dimmer QRG](Echo and Metro Wireless Configurable Keypads and Dimmers QRG.pdf)
+
+Wireless Switches
+[Wireless Swith QRG](Echo and Metro Wireless Keypad Switch QRG.pdf)
