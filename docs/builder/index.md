@@ -1,17 +1,30 @@
-# Installation 
+## High Level
 
-## Install the Network or Use the Existing one
+# Electrician
 
-## Wire up the keypads, thinking through load locations and load types
+1. Design the system identifying load locations and load types
 
-## Onboard the keypads, switches and dimmers to Wi-Fi via BLE
+1. Wire up the keypads 
 
-## Discovery them in Blueprint on Wi-Fi
+1. Verify all loads work for Certificate of Occupancy (CO)
 
-## Configure Control Behaviors
-1. Lightbanks (Groups of loads)
-2. Scenes
+# Network 
+1. Install the Network 
 
-## Assign Scenes, Lightbanks and Loads to Keypads 
+1. Test the Network - Verify all devices have good Wi-Fi access
+
+# Programming
+
+- Onboard the keypads, switches and dimmers to Wi-Fi via BLE, using the SP&L Mobile App
+
+- Discover them in Blueprint on Wi-Fi, Identify them and add to the configuration
+
+1. Configure Control Behaviors
+    * Lightbanks
+    * Scenes
+
+- Assign Scenes, Lightbanks and Loads to Keypad Buttons 
+
+- Save configuration and Upload to the Host
 
 

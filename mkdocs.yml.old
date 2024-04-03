@@ -1,0 +1,100 @@
+site_name: Savant Lighting and Shades
+site_url: https://example.com
+
+
+theme:
+    name: material
+    logo: img/logo.png
+    favicon: assets/logo.png
+
+    palette:
+     #   scheme: savants
+    - primary: light blue
+
+    
+    features:
+    - navigation.sections
+   # - navigation.tracking
+    - navigation.tabs
+    - navigation.expand
+    - navigation.indexes
+    - toc.follow
+    - toc.integrate
+    - search.suggest
+    
+markdown_extensions:
+  - attr_list
+  
+plugins:
+    - search
+    - mkdocs-pdf
+    - open-in-new-tab
+   
+  
+extra:
+  generator: false
+
+    
+nav:
+    - 'Home': 'index.md'
+    - 'Product':
+        - '': product/index.md
+        - 'Wireless Dimmers and Switches': product/wireless_dimmers_switches.md
+        
+    - 'Installation':
+        - Wiring:
+            - '': installation/index.md #this is normal yaml
+            - 'Networking': installation/networking.md
+            - 'Host': installation/host.md
+            - 'Wireless Keypads': installation/wireless_keypads.md
+            - 'Shades': installation/shades.md
+#            - 'Wired Lighting': overview/o3.md
+#            - 'Companion Module Wiring': overview/o3.md
+            
+        - Commissioning:
+            - '': installation/index.md #this is normal yaml
+            - 'Onboarding to Wi-Fi': installation/onboarding.md
+            - 'Adding to Blueprint': installation/blueprint_commissioning.md
+        
+        
+    - 'Programming':
+        - Setup:
+            - '': programming/index.md #this is normal yaml
+            - 'SAM': programming/sam.md
+            - 'Blueprint': programming/blueprint.md
+            
+        - Blueprint:
+            - '': programming/index.md #this is normal yaml
+            - 'Quickstart': programming/quickstart.md
+            - 'Zones': programming/zones.md
+            - 'Keypad Discovery': programming/discovery.md
+            - 'Deploy': programming/deploy.md
+            - 'Help Sections': programming/help.md
+   
+   
+    - 'Electrician & Builder':
+        - Installation:
+            - '': builder/index.md
+            - 'Wiring': builder/wiring.md
+            - 'Quick Start Guide': builder/quickstartguide.md
+            - 'Deployment Guides': builder/deployment.md
+            - 'Glossary': builder/glossary.md
+
+
+    - 'Training':
+        - '':
+            - '': builder/training.md
+
+     
+extra_css:
+    - style.css
+    
+markdown_extensions:
+  - attr_list
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+  
+    #extra_css:
+     #   - stylesheets/extra.css

@@ -1,8 +1,17 @@
 # Quick Start Guide
 
+## Watch Training Videos
+[MacOS For Beginners](https://support.apple.com/guide/mac-help/get-started-with-your-mac-mchl3a2c2cb0/mac)
+
+[Lighting Deployment](https://vimeo.com/user134801363/review/929875058/0a1da2fc42)
+
+[Lighting Manager](https://vimeo.com/user134801363/review/861382651/3ae32264c8)
+
+[Savant Community Documentation Portal (must sign in)](https://beta-community.savant.com/knowledge/Lighting-Documentation-Lighting-Portal)
+
 ## SAM 
 
-* Open Savant Application Manager (SAM)  - /Applications/Savant Application Manager.app"
+* Open Savant Application Manager (SAM)  - /Applications/Savant Application Manager.app" This is the primary application that allows you to download the latest set of applications (Blueprint and System Monitor) that will run on your Mac.
 * ![](SAM.png)
 * In SAM, Download latest daVinci Release (10.5.2), eventually SavantOS 11.0.  Make sure to remember to click the "Activate" button".
 
