@@ -2,122 +2,122 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://example.com/</loc>
-         <lastmod>2024-04-03</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/builder/</loc>
-         <lastmod>2024-04-03</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/builder/deployment/</loc>
-         <lastmod>2024-04-03</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/builder/glossary/</loc>
-         <lastmod>2024-04-03</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/builder/quickstartguide/</loc>
-         <lastmod>2024-04-03</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/builder/training/</loc>
-         <lastmod>2024-04-03</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/builder/wiring/</loc>
-         <lastmod>2024-04-03</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/installation/</loc>
-         <lastmod>2024-04-03</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/installation/blueprint_commissioning/</loc>
-         <lastmod>2024-04-03</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/installation/host/</loc>
-         <lastmod>2024-04-03</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/installation/networking/</loc>
-         <lastmod>2024-04-03</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/installation/onboarding/</loc>
-         <lastmod>2024-04-03</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/installation/shades/</loc>
-         <lastmod>2024-04-03</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/installation/wireless_keypads/</loc>
-         <lastmod>2024-04-03</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/product/</loc>
-         <lastmod>2024-04-03</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/product/wireless_dimmers_switches/</loc>
-         <lastmod>2024-04-03</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/programming/</loc>
-         <lastmod>2024-04-03</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/programming/blueprint/</loc>
-         <lastmod>2024-04-03</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/programming/deploy/</loc>
-         <lastmod>2024-04-03</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/programming/discovery/</loc>
-         <lastmod>2024-04-03</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/programming/help/</loc>
-         <lastmod>2024-04-03</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/programming/quickstart/</loc>
-         <lastmod>2024-04-03</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/programming/sam/</loc>
-         <lastmod>2024-04-03</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/programming/zones/</loc>
-         <lastmod>2024-04-03</lastmod>
+         <lastmod>2024-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
