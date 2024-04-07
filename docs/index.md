@@ -6,7 +6,7 @@
 * Understand product portfolio
 * Order Equipment
 * Layout devices in zones on a plan
-* Physically install prodcuts
+* Physically install products
 
 
 
