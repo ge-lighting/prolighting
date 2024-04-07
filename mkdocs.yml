@@ -39,7 +39,6 @@ nav:
     - 'Home': 'index.md'
     - 'Product':
         - '': product/index.md
-        - 'Wireless Dimmers and Switches': product/wireless_dimmers_switches.md
 
     - 'Programming':
         - Blueprint:
