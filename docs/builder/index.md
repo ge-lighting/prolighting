@@ -1,6 +1,6 @@
 ## High Level
 
-# Electrician
+# Electrical Installation 
 
 1. Design the system identifying load locations and load types
 
