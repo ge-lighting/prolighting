@@ -10,6 +10,7 @@
 * Bond Bridge - for Shades
 
 ## Keypads
+* Kevin Write this out with the exact SKUs and Recommended products
 * Echo Switch
 * Echo Dimmer
 * Echo Keypad - 6 Button
