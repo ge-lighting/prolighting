@@ -37,28 +37,53 @@ extra:
     
 nav:
     - 'Home': 'index.md'
-    - 'Product':
-        - '': product/index.md
+    
+    - 'Design':
+      - Products:
+        - 'ignored': product/index.md
+      - SKUs:
+        - 'ignored': product/index.md
+      - Recommended Solutions:
+        - 'ignored': product/index.md
 
-   
-   
-    - 'Electrician & Builder':
-        - Installation:
-            - '': builder/index.md
-            - 'Wiring': builder/wiring.md
-            - 'Quick Start Guide': builder/quickstartguide.md
-            - 'Deployment Guides': builder/deployment.md
-            - 'Glossary': builder/glossary.md
+    - 'Installation':
+      - Wireless Lighting:
+        - 'ignored': builder/index.md
+        - 'Wiring': builder/wiring.md
+        - 'Quick Start Guide': builder/quickstartguide.md
+        - 'Deployment Guides': builder/deployment.md
 
+      - Shades:
+        - 'ignored': builder/index.md
+        - 'Wiring': builder/wiring.md
+        - 'Quick Start Guide': builder/quickstartguide.md
+        - 'Deployment Guides': builder/deployment.md
 
-    - 'Training':
-        - '':
-            - '': builder/training.md
+      - Wired Lighting:
+        - 'ignored': builder/index.md
+        - 'Wiring': builder/wiring.md
+        - 'Quick Start Guide': builder/quickstartguide.md
+        - 'Deployment Guides': builder/deployment.md
 
     - 'Programming':
+        - Setup:
+            - '': programming/index.md #this is normal yaml
+            - 'SAM': programming/sam.md
+            - 'Blueprint': programming/blueprint.md
+
         - Blueprint:
             - '': programming/index.md #this is normal yaml
+            - 'Quickstart': programming/quickstart.md
+            - 'Zones': programming/zones.md
+            - 'Keypad Discovery': programming/discovery.md
+            - 'Deploy': programming/deploy.md
             - 'Help Sections': programming/help.md
+
+    - 'Resources':
+          - 'ignored': rresources/index.md
+          - 'Videos': rresources/index.md
+          - 'FAQs': rresources/faqs.md
+          - 'Glossary': builder/glossary.md
      
 extra_css:
     - style.css
