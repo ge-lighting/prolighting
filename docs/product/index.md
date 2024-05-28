@@ -1,16 +1,10 @@
-# Product
+# Design
+Here you will find more details on each specific product you are designing with.  Keep in mind that most products that are installed require a reliable network.
 
-[Lighting Brochure](https://sav-marketing-sales.s3.amazonaws.com/public/Savant%20Lighting%20Control%202021.pdf)
+## [Network](product/network.md)
 
-[Bulb and Fixtures from Savant GE Lighting](https://www.gelighting.com/dimming)
+## [Lighting](product/lighting.md)
 
-## Base Devices
-* SHR-2000
-* Wireless Router
-* Bond Bridge - for Shades
+## [Shading](product/shading.md)
 
-## Keypads
-* Kevin Write this out with the exact SKUs and Recommended products
-* Echo Switch
-* Echo Dimmer
-* Echo Keypad - 6 Button
+## [Tools](product/tools.md)

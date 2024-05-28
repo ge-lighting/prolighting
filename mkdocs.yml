@@ -38,13 +38,12 @@ extra:
 nav:
     - 'Home': 'index.md'
     
-    - 'Design':
-      - Products:
-        - 'ignored': product/index.md
-      - SKUs:
-        - 'ignored': product/index.md
-      - Recommended Solutions:
-        - 'ignored': product/index.md
+    - 'Design': 
+      - '': product/index.md
+      - Network: product/network.md
+      - Ligthing: product/lighting.md
+      - Shades: product/shading.md
+      - Tools: product/tools.md
 
     - 'Installation':
       - Wireless Lighting:
