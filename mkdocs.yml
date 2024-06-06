@@ -23,13 +23,13 @@ theme:
     - search.suggest
     
 markdown_extensions:
-  - attr_list
+    - attr_list
   
 plugins:
     - search
     - mkdocs-pdf
     - open-in-new-tab
-   
+    - mkdocs-video
   
 extra:
   generator: false
@@ -46,43 +46,34 @@ nav:
       - Tools: product/tools.md
 
     - 'Installation':
-      - Wireless Lighting:
-        - 'ignored': builder/index.md
-        - 'Wiring': builder/wiring.md
-        - 'Quick Start Guide': builder/quickstartguide.md
-        - 'Deployment Guides': builder/deployment.md
-
-      - Shades:
-        - 'ignored': builder/index.md
-        - 'Wiring': builder/wiring.md
-        - 'Quick Start Guide': builder/quickstartguide.md
-        - 'Deployment Guides': builder/deployment.md
-
-      - Wired Lighting:
-        - 'ignored': builder/index.md
-        - 'Wiring': builder/wiring.md
-        - 'Quick Start Guide': builder/quickstartguide.md
-        - 'Deployment Guides': builder/deployment.md
+      - '': installation/index.md
+      - Network: installation/network.md
+      - Lighting: installation/lighting.md
+      - Shades: installation/shading.md
+      - Archived pages:
+        - 'Wiring': installation/wiring.md
+        - 'Quick Start Guide': installation/quickstartguide.md
+        - 'Deployment Guides': installation/deployment.md
 
     - 'Programming':
-        - Setup:
-            - '': programming/index.md #this is normal yaml
-            - 'SAM': programming/sam.md
-            - 'Blueprint': programming/blueprint.md
-
-        - Blueprint:
-            - '': programming/index.md #this is normal yaml
-            - 'Quickstart': programming/quickstart.md
-            - 'Zones': programming/zones.md
+        - '': programming/index.md #this is normal yaml
+        - Computer Setup: programming/sam.md
+        - Network: programming/network.md
+        - Pre-Program Lighting: programming/lighting.md
+        - Pre-Program Shades: programming/shading.md
+        - Configuration Software: programming/blueprint.md
+        - Configuring a Home: programming/zones.md
+        - End User App: programming/proapp.md
+        - Achived pages:
             - 'Keypad Discovery': programming/discovery.md
             - 'Deploy': programming/deploy.md
             - 'Help Sections': programming/help.md
 
     - 'Resources':
-          - 'ignored': rresources/index.md
+          - '': rresources/index.md
           - 'Videos': rresources/index.md
           - 'FAQs': rresources/faqs.md
-          - 'Glossary': builder/glossary.md
+          - 'Glossary': installation/glossary.md
      
 extra_css:
     - style.css

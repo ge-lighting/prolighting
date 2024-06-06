@@ -23,7 +23,7 @@ Other things to consider is the direction the fabric will roll off the shade as 
 
 Options like this should be considered when there are door handles or windw hardware that may get in the way.  Also when you want to minimize the amount of gap between the window and the shade.
 
-## Chosing Fabric
+## Choosing Fabric
 When choosing a fabric there are many factors to choose from.  To start you will want to decide how much light you want to go through the shade.
 
 * No Light - Blackout
@@ -36,4 +36,4 @@ While a blakcout shade is straitforward ad does not let any light through the di
 
 When designing a shade you will need to measure the height and width of the window.  It is recommneded to measure each direction 3 times.  for example when measuring the width you will measure the width at the top of the shade, Middle of the shade, and bottom of the shade and if your installing the shade inside the window you will use the smallest number.  If you are mounting ontop of the window you will use the largets number.
 
-## [Tools](product/tools.md)
+## [Tools](tools.md)

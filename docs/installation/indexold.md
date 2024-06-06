@@ -8,6 +8,8 @@
 
 1. Verify all loads work for Certificate of Occupancy (CO)
 
+![type:video](https://player.vimeo.com/video/884558420?h=ce1b5d4a33)
+
 # Network 
 1. Install the Network 
 
