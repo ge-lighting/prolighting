@@ -89,6 +89,7 @@ nav:
               - 'HVAC': help/hvac.md 
               - 'Inspector': help/inspector.md 
               - 'Logs': help/logs.md
+              - 'Lighting': help/lighting.md
               - 'Preferences': help/preferences.md 
               - 'Profiles': help/profiles.md
               - 'Reports': help/reports.md 
