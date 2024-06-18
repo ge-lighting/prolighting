@@ -11,9 +11,7 @@
 
 ## SAM 
 
-* Open Savant Application Manager (SAM)  - /Applications/Savant Application Manager.app" This is the primary application that allows you to download the latest set of applications (Blueprint and System Monitor) that will run on your Mac.
-* ![](SAM.png)
-* In SAM, Download latest daVinci Release (10.5.2), eventually SavantOS 11.0.  Make sure to remember to click the "Activate" button".
+
 
 ## Blueprint Loading of the Template
 * Select the Blueprint icon (top right square) to open Blueprint
@@ -23,7 +21,7 @@
 
 ## Onboarding
 * Open the SP&L and get the devices onto Wi-Fi.  They will be discovered in the app via BLE.  You must onboard one of the wireless dimmers, switches or keypads.  After that, you can use the RAD protocol to have the devices self-propagate the credentials to all of the devices in the home:
-* [RAD](RAD.pdf)
+
 
 ## Wi-Fi Discovery
 * Press the slide out icon at the top right: ![](FirstLightingManager.png)

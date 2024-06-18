@@ -39,41 +39,41 @@ nav:
     - 'Home': 'index.md'
     
     - 'Design': 
-      - '': product/index.md
-      - Network: product/network.md
-      - Ligthing: product/lighting.md
-      - Shades: product/shading.md
-      - Tools: product/tools.md
+      - '': design/index.md
+#      - Network: design/network.md
+      - Ligthing: design/lighting.md
+#      - Shades: design/shading.md
+      - Tools: design/tools.md
 
     - 'Installation':
       - '': installation/index.md
-      - Network: installation/network.md
+#      - Network: installation/network.md
       - Lighting: installation/lighting.md
-      - Shades: installation/shading.md
-      - Archived pages:
-        - 'Wiring': installation/wiring.md
-        - 'Quick Start Guide': installation/quickstartguide.md
-        - 'Deployment Guides': installation/deployment.md
+#      - Shades: installation/shading.md
+#      - Archived pages:
+#        - 'Wiring': installation/wiring.md
+#        - 'Quick Start Guide': installation/quickstartguide.md
+#        - 'Deployment Guides': installation/deployment.md
 
     - 'Programming':
         - '': programming/index.md #this is normal yaml
         - Computer Setup: programming/sam.md
-        - Network: programming/network.md
+#        - Network: programming/network.md
         - Pre-Program Lighting: programming/lighting.md
-        - Pre-Program Shades: programming/shading.md
+#        - Pre-Program Shades: programming/shading.md
         - Configuration Software: programming/blueprint.md
         - Configuring a Home: programming/zones.md
         - End User App: programming/proapp.md
-        - Achived pages:
-            - 'Keypad Discovery': programming/discovery.md
-            - 'Deploy': programming/deploy.md
-            - 'Help Sections': programming/help.md
+#        - Achived pages:
+#            - 'Keypad Discovery': programming/discovery.md
+#            - 'Deploy': programming/deploy.md
+#            - 'Help Sections': programming/help.md
 
-    - 'Resources':
-          - '': rresources/index.md
-          - 'Videos': rresources/index.md
-          - 'FAQs': rresources/faqs.md
-          - 'Glossary': installation/glossary.md
+#    - 'Resources':
+#          - '': rresources/index.md
+#          - 'Videos': rresources/index.md
+#          - 'FAQs': rresources/faqs.md
+#          - 'Glossary': installation/glossary.md
      
 extra_css:
     - style.css
