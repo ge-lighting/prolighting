@@ -24,6 +24,8 @@ theme:
     
 markdown_extensions:
     - attr_list
+    - toc:
+        permalink:
   
 plugins:
     - search
@@ -69,11 +71,43 @@ nav:
 #            - 'Deploy': programming/deploy.md
 #            - 'Help Sections': programming/help.md
 
+#<<<<<<< HEAD
 #    - 'Resources':
 #          - '': rresources/index.md
 #          - 'Videos': rresources/index.md
 #          - 'FAQs': rresources/faqs.md
 #          - 'Glossary': installation/glossary.md
+#=======
+    - 'Resources':
+          - '': rresources/index.md
+          - 'Videos': rresources/index.md
+          - 'FAQs': rresources/faqs.md
+          - 'Glossary': installation/glossary.md
+          - Blueprint Contextual Help:
+              - 'Help Index': help/helpindex.md 
+              - 'BACNet': help/bacnet.md 
+              - 'Component': help/component.md 
+              - 'ComponentPallette': help/componentpallette.md 
+              - 'DataTable': help/datatable.md 
+              - 'Document': help/document.md 
+              - 'Energy': help/energy.md 
+              - 'Find': help/find.md 
+              - 'General': help/general.md 
+              - 'HVAC': help/hvac.md 
+              - 'Inspector': help/inspector.md 
+              - 'Logs': help/logs.md
+              - 'Lighting': help/lighting.md
+              - 'Preferences': help/preferences.md 
+              - 'Profiles': help/profiles.md
+              - 'Reports': help/reports.md 
+              - 'Security': help/security.md 
+              - 'Services': help/services.md 
+              - 'Settings': help/settings.md 
+              - 'States': help/states.md 
+              - 'Workflows': help/workflows.md 
+              - 'Zones': help/zones.md 
+
+#>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
      
 extra_css:
     - style.css

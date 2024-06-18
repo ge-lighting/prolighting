@@ -2,197 +2,463 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://example.com/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/help/bacnet/</loc>
+         <lastmod>2024-06-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/help/component/</loc>
+         <lastmod>2024-06-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/help/componentpallette/</loc>
+         <lastmod>2024-06-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/help/datatable/</loc>
+         <lastmod>2024-06-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/help/document/</loc>
+         <lastmod>2024-06-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/help/energy/</loc>
+         <lastmod>2024-06-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/help/find/</loc>
+         <lastmod>2024-06-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/help/general/</loc>
+         <lastmod>2024-06-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/help/helpindex/</loc>
+         <lastmod>2024-06-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/help/hvac/</loc>
+         <lastmod>2024-06-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/help/inspector/</loc>
+         <lastmod>2024-06-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/help/lighting/</loc>
+         <lastmod>2024-06-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/help/logs/</loc>
+         <lastmod>2024-06-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/help/preferences/</loc>
+         <lastmod>2024-06-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/help/profiles/</loc>
+         <lastmod>2024-06-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/help/reports/</loc>
+         <lastmod>2024-06-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/help/security/</loc>
+         <lastmod>2024-06-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/help/services/</loc>
+         <lastmod>2024-06-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/help/settings/</loc>
+         <lastmod>2024-06-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/help/states/</loc>
+         <lastmod>2024-06-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/help/workflows/</loc>
+         <lastmod>2024-06-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/help/zones/</loc>
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/installation/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/installation/deployment/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/installation/glossary/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/installation/indexold/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/installation/lighting/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/installation/network/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/installation/quickstartguide/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/installation/shading/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/installation/tools/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/installation/training/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/installation/wiring/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/installationold/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/installationold/blueprint_commissioning/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/installationold/host/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/installationold/networking/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/installationold/onboarding/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/installationold/shades/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/installationold/wireless_keypads/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/product/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/product/lighting/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/product/network/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/product/shading/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/product/tools/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/product/wireless_dimmers_switches/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/programming/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/programming/blueprint/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/programming/deploy/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/programming/discovery/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/programming/help/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/programming/lighting/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/programming/network/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/programming/proapp/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/programming/quickstart/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/programming/sam/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/programming/shading/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/programming/zones/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/rresources/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/rresources/faqs/</loc>
+<<<<<<< HEAD
          <lastmod>2024-06-06</lastmod>
+=======
+         <lastmod>2024-06-14</lastmod>
+>>>>>>> 50a1aac414575f7998f4628d718461c6e97c5c90
          <changefreq>daily</changefreq>
     </url>
 </urlset>
