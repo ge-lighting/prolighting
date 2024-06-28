@@ -21,6 +21,9 @@ Download the Savant Power and Light app from the [Apple App Store](https://apps.
 
 ### Keypads
 1. Launch the app after downloaded
+
+    This is a sub step
+
 1. Ensure your device is on the wifi network you wish to connect the keypads to
 1. Tap on the "Provision to Wifi button"
 1. the app will search for installed devices that are powered on and within Bluetooth range (about 10')

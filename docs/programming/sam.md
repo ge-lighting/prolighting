@@ -7,7 +7,7 @@ Here are some more specific MAC related items from our training team.
 ![type:video](https://player.vimeo.com/video/946742711?h=e718dac479&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479)
 ## Savant Application Manager - SAM
 
-1. To download SAM you will need to log into the Savant communtiy
+1. To download SAM you will need to log into the Savant communtiy at [community.savant.com](https://community.savant.com)
 
      ![](../img/sam/sam1.png)
 

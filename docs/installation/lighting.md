@@ -24,12 +24,12 @@ Use the following wiring diagram to physicall install the dimmer or switch.  Not
 1. Remove the Knock-Out - Place a screwdriver into the center, carefully flexing back and forth until removed. Do not leave the removed metal circle inside the fixture.
     NOTE: Once the knock-out is removed, the Undercabinet Bar can only be hardwired and can no longer be plugged in.
 
-![](../img/wiring/ucdw1.png)
+    ![](../img/wiring/ucdw1.png)
 
 1. Loosen the screw and remove connection cover.
 2. Mount Strain Relief to the Connection Cover - Securely tighten the nut. Strain relief should be on the outside of the connection cover with the nut on the inside. Push supply cable through the strain relief ensuring that roughly 3 inches of cable is through the fitting. Tighten screws around supply cable.
 
-![](../img/wiring/ucdw2.png)
+    ![](../img/wiring/ucdw2.png)
 
 3. Connect Wires - Inside the fixture, there are three wires with a wire connector fitted to each end. Carefully pull these out of the fixture. Do not pull with excesive force.
 4. Insert each of the three wires from the supply cable into each of the three connectors with their respective color wires. Make sure that all wires are securely gripped, and no bare wires are exposed.
@@ -39,18 +39,18 @@ Use the following wiring diagram to physicall install the dimmer or switch.  Not
 5. Gently push the wires back inide of the fixture. Secure the connection cover back onto the fixture assembly.
     WARNING: Do not use power cord when also direct wiring the fixture! Use only one method to power the fixture.
 
-![](../img/wiring/ucdw3.png)
+    ![](../img/wiring/ucdw3.png)
 
 6. Install Fixture - Place the fixture in the desired position within 5 feet of an outlet. Ensure there is enough space between any cabinet edges and fixtures ends for the cord end. It may be required to pre-drill a pilot hole for screws using a 3mm or 1/8th inch sized drill bit.
 
-![](../img/wiring/ucdw4.png)
+    ![](../img/wiring/ucdw4.png)
 
 7. Mount the fixture using a Philips head screwdriver, fully seating the pre-installed mounting screws. Provided screws are suitable for cabinet bottoms 3/8 inch or thicker. It may be required to pre-drill a pilot hole for the screws. WARNING: If using a drill, set it to a medium speed. Ensure the bit is fully engaged with the screw to avoid stripping. Start slowly until the screw bites into the wood.
 8. Push in the screw hole covers, covering the two exposed screws. When direct wiring and not linking fixtures, make sure to not remove the plastic receptacle cap on each end of the fixture—leave them in place. Turn on the electricity at the circuit breaker or fuse box and verify that the fixture functions properly.
 ### Plug-In
 1. Position Fixture - Locate the position to mount the Undercabinet Fixture. Be sure that it is mounted within 5 feet of an outlet.
 
-![](../img/wiring/ucpi1.png)
+    ![](../img/wiring/ucpi1.png)
 
 1. Place the fixture in the desired position. Mount the fixture using a screwdriver, fully seating the pre-installed mounting screws. Provided screws are suitable for cabinet bottoms 3/8 inch or thicker. It may be required to pre-drill a pilot hole for the screws.
     WARNING: If using a drill, set it to a medium speed. Ensure the bit is fully engaged with the screw to avoid stripping. Start slowly until the screw bites into the wood.
@@ -60,12 +60,12 @@ Use the following wiring diagram to physicall install the dimmer or switch.  Not
 ### Joining Multiple Fixtures
 1. For multiple fixture installation, make sure all fixtures have been securely mounted and AC Input ports are facing the same direction. (See image below) Fixtures are linkable up to a maximum of 10 units and a wattage maximum of 220W.
 
-![](../img/wiring/ucj1.png)
+    ![](../img/wiring/ucj1.png)
 
 2. Remove the plastic quick connect cap that covers the INPUT/OUTPUT port. Store the cap in a safe place for potential future use.
 3. Using provided jumper cord or recessed connector, link the fixtures together starting with the INPUT/OUTPUT port on the powered fixture and connecting it to the INPUT port on the non-powered fixture. The linking cable and flush connector are designed to only connect one way.
 
-![](../img/wiring/ucj2.png)
+    ![](../img/wiring/ucj2.png)
 
 4. Ensure plastic quick connect caps are installed in all open parts at the completion of installation.
     NOTE: Fixtures can be controlled individually or grouped together in the Cync App whether they are joined together or powered independently.
