@@ -1,15 +1,15 @@
-site_name: Savant Lighting and Shades
-site_url: https://example.com
+site_name: Lighting and Shades for Builders
+site_url: http://info.savant.com/buildersupport
 
 
 theme:
     name: material
-    logo: img/logo.png
-    favicon: assets/logo.png
+    logo: ../img/logo.png
+    favicon: ../img/favicon.png
 
     palette:
      #   scheme: savants
-    - primary: light blue
+    - primary: black
 
     
     features:
@@ -64,8 +64,8 @@ nav:
         - Pre-Program Lighting: programming/lighting.md
 #        - Pre-Program Shades: programming/shading.md
         - Configuration Software: programming/blueprint.md
-        - Configuring a Home: programming/zones.md
         - End User App: programming/proapp.md
+        - Cloud Management: programming/scm.md
 #        - Achived pages:
 #            - 'Keypad Discovery': programming/discovery.md
 #            - 'Deploy': programming/deploy.md

@@ -6,5 +6,5 @@ Each step below will help you along the way.  The first time you configure a sys
 ## [Pre-Program Lighting](lighting.md)
 <!--## [Pre-Program Shades](shading.md)-->
 ## [Configuration Software](blueprint.md)
-## [Configure a Home](zones.md)
 ## [End User App](proapp.md)
+## [Cloud Management](scm.md)
