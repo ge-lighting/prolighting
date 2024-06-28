@@ -34,6 +34,9 @@
     ![](../img/bp/lmqa3.png)
 	
 1. Once all keypads have been placed in the proper rooms press the sync button in the lower right
+
+    ![](../img/bp/lmqa4.png)
+	
 1. Close the Lighting data table
 1. Press the upload to host button (you should wait up to 5 minutes for all devices to get new firmware)
 
