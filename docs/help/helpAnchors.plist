@@ -373,55 +373,6 @@
 		<key>value</key>
 		<string>000001455</string>
 	</dict>
-	<key>ThemeManagerDialogCreatePanel</key>
-	<dict>
-		<key>remote</key>
-		<false/>
-		<key>value</key>
-		<string>000001094</string>
-	</dict>
-	<key>ThemeManagerDialogAddPanelScreensTab</key>
-	<dict>
-		<key>remote</key>
-		<false/>
-		<key>value</key>
-		<string>000001094</string>
-	</dict>
-	<key>ThemeManagerDialogAddPanelButtonsTab</key>
-	<dict>
-		<key>remote</key>
-		<false/>
-		<key>value</key>
-		<string>000001094</string>
-	</dict>
-	<key>ThemeManagerDialogAddPanelBackgroundsTab</key>
-	<dict>
-		<key>remote</key>
-		<false/>
-		<key>value</key>
-		<string>000001094</string>
-	</dict>
-	<key>ThemeManagerDialogAddPanelSoundsTab</key>
-	<dict>
-		<key>remote</key>
-		<false/>
-		<key>value</key>
-		<string>000001094</string>
-	</dict>
-	<key>ThemeManagerDialogAddPanelAttachmentsTab</key>
-	<dict>
-		<key>remote</key>
-		<false/>
-		<key>value</key>
-		<string>000001094</string>
-	</dict>
-	<key>ThemeManagerDialogDeletePanel</key>
-	<dict>
-		<key>remote</key>
-		<false/>
-		<key>value</key>
-		<string>000001094</string>
-	</dict>
 	<key>ServicesRequestsStatesWindow</key>
 	<dict>
 		<key>remote</key>
@@ -779,6 +730,34 @@
 		<key>value</key>
 		<string>000002850</string>
 	</dict>
+	<key>EnterLicenseHelpDialog</key>
+	<dict>
+		<key>remote</key>
+		<false/>
+		<key>value</key>
+		<string>000001056</string>
+	</dict>
+	<key>CustomThemesFolderNotFound</key>
+	<dict>
+		<key>remote</key>
+		<false/>
+		<key>value</key>
+		<string>000002811</string>
+	</dict>
+	<key>ImportProfileChooseUserLibrary</key>
+	<dict>
+		<key>remote</key>
+		<false/>
+		<key>value</key>
+		<string>000001589</string>
+	</dict>
+	<key>ChooseWorkflowsToEditDialog</key>
+	<dict>
+		<key>remote</key>
+		<false/>
+		<key>value</key>
+		<string>000001169</string>
+	</dict>
 	<key>LightingGroup</key>
 	<dict>
 		<key>remote</key>
@@ -837,6 +816,8 @@
 		<dict>
 			<key>RemoteGroup</key>
 			<string>lighting</string>
+			<key>11.0.0</key>
+			<string></string>
 		</dict>
 	</dict>
 	<key>leap</key>
@@ -849,6 +830,101 @@
 		<dict>
 			<key>RemoteGroup</key>
 			<string>lighting</string>
+		</dict>
+	</dict>
+	<key>baseURL</key>
+	<string>https://ge-lighting.github.io/prolighting/help</string>
+	<key>SavantLinks</key>
+	<dict>
+		<key>Shading</key>
+		<dict>
+			<key>link</key>
+			<string>https://info.savant.com/BPHelp/Lighting</string>
+		</dict>
+		<key>Lighting</key>
+		<dict>
+			<key>link</key>
+			<string>https://info.savant.com/BPHelp/Lighting</string>
+		</dict>
+		<key>Music</key>
+		<dict>
+			<key>link</key>
+			<string>https://info.savant.com/BPHelp/Music</string>
+		</dict>
+		<key>IP Video</key>
+		<dict>
+			<key>link</key>
+			<string>https://info.savant.com/BPHelp/IPVideo</string>
+		</dict>
+		<key>IP Audio</key>
+		<dict>
+			<key>link</key>
+			<string>https://info.savant.com/BPHelp/IPAudio</string>
+		</dict>
+		<key>Camera</key>
+		<dict>
+			<key>link</key>
+			<string>https://info.savant.com/BPHelp/Cameras</string>
+		</dict>
+		<key>Security</key>
+		<dict>
+			<key>link</key>
+			<string>https://info.savant.com/BPHelp/Security</string>
+		</dict>
+		<key>Door Locks</key>
+		<dict>
+			<key>link</key>
+			<string>https://info.savant.com/BPHelp/DoorLocks</string>
+		</dict>
+		<key>Entry</key>
+		<dict>
+			<key>link</key>
+			<string>https://info.savant.com/BPHelp/Entry</string>
+		</dict>
+		<key>Energy</key>
+		<dict>
+			<key>link</key>
+			<string>https://info.savant.com/BPHelp/Energy</string>
+		</dict>
+		<key>HVAC</key>
+		<dict>
+			<key>link</key>
+			<string>https://info.savant.com/BPHelp/HVAC</string>
+		</dict>
+		<key>General Blueprint</key>
+		<dict>
+			<key>link</key>
+			<string>https://info.savant.com/BPHelp/Configuration</string>
+		</dict>
+		<key>Licensing</key>
+		<dict>
+			<key>link</key>
+			<string>https://info.savant.com/BPHelp/Licensing</string>
+		</dict>
+		<key>BACnet</key>
+		<dict>
+			<key>link</key>
+			<string>https://info.savant.com/BPHelp/BACnet</string>
+		</dict>
+		<key>BP Preferences</key>
+		<dict>
+			<key>link</key>
+			<string>https://info.savant.com/BPHelp/Preferences</string>
+		</dict>
+		<key>Savant App Preferences</key>
+		<dict>
+			<key>link</key>
+			<string>https://info.savant.com/BPHelp/SavantAppOrderingAliasing</string>
+		</dict>
+		<key>Triggers</key>
+		<dict>
+			<key>link</key>
+			<string>https://info.savant.com/BPHelp/StateTriggers</string>
+		</dict>
+		<key>Workflows</key>
+		<dict>
+			<key>link</key>
+			<string>https://info.savant.com/BPHelp/CustomWorkflows</string>
 		</dict>
 	</dict>
 </dict>
