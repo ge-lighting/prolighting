@@ -35,6 +35,17 @@ Please see this video for a brief overview of the steps above.
 ### Changing Configurations remotely
 You can make changes to a system remotely by changing the configuration on your computer, uploading it to the SCM website and deploying it to the host.  This section will walk you through the steps to do this.
 
+1. Download a copy of the configuration from SCM by clicking on the Configurations tab. 
+1. Under “Active Configuration”, click download. 
+1. Once the download has finished, unzip it and open the configuration in Blueprint.
+1. Make any needed changes.
+1. Save the edited configuration file. 
+1. Return to the Configuration tab of SCM.
+1. Below Home Config Files, click Upload.
+1. Find and upload the saved configuration file.
+1. After it’s uploaded, click Deploy next to it. This makes the newly uploaded configuration the active, running configuration.
+
+
 ### Getting Logs for Support
 At times there may be a need to supply Savant Support a set of system logs.  You can do this by accessing the SCM website and requesting the download of them.  This section will walk you though these steps.
 

@@ -37,10 +37,19 @@ Note: To make it easier to know what device is your "Primary" keypad.  We recomm
 1. Launch the app after downloaded
 1. Ensure your device is on the wifi network you wish to connect the keypads to
 1. Tap on the "Provision to Wifi button"
+
+    ![](../img/03 Provision_To_Wifi.gif)
+
 1. the app will search for installed devices that are powered on and within Bluetooth range (about 10')
 1. tap on one of the devices and tap next
+
+    ![](../img/05 Connect_To_Wifi.gif)
+
 1. Select use current WiFi
 1. Enter the wifi password
+
+    ![](../img/07 Enter_Password.gif)
+
 1. tap provision and the wifi information will be sent to the "Primary" keypad.  Close the app and continue to the next step RAD
 
 NOTE: Repeat steps 4-8 for each lighting device.

@@ -40,7 +40,7 @@
 1. Close the Lighting data table
 1. Press the upload to host button (you should wait up to 5 minutes for all devices to get new firmware)
 
-    ![](../img/bp/UploadToMaster.png)
+    ![](../img/bp/upload_config_update.gif)
 
 
 We are back with the earlier video.  This will show you how to do the above steps.

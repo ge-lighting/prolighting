@@ -4,8 +4,8 @@ site_url: http://info.savant.com/buildersupport
 
 theme:
     name: material
-    logo: ../img/logo.png
-    favicon: ../img/favicon.png
+    logo: img/logo.png
+    favicon: img/favicon.png
 
     palette:
      #   scheme: savants

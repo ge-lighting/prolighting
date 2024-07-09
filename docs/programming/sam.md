@@ -28,9 +28,13 @@ Here are some more specific MAC related items from our training team.
 
 1. Click on the "release date" to sort all the releases by the newest at the top
 1. Click Install next to the Top Most Release
-1. once the install is complete click "Activate"
+1. Once the install is complete click "Activate"
 
-![](../img/sam/sam10.png)
+    ![](../img/sam/sam10.png)
+
+1. Click on Racepoint Blueprint to start the software
+
+    ![](../img/sam/launch bp_cropped2.gif)
 
 
 **Optional**: Learn more about SAM and other Savant applications here
