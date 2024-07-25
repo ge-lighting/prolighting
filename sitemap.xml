@@ -2,257 +2,277 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>http://info.savant.com/buildersupport/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/design/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/design/lighting/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/design/network/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/design/shading/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/design/tools/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/design/wireless_dimmers_switches/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://info.savant.com/buildersupport/downloads/</loc>
+         <lastmod>2024-07-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://info.savant.com/buildersupport/downloads/davinci10/</loc>
+         <lastmod>2024-07-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://info.savant.com/buildersupport/downloads/davinci11/</loc>
+         <lastmod>2024-07-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://info.savant.com/buildersupport/downloads/sam/</loc>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/help/bacnet/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/help/component/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/help/componentpallette/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/help/datatable/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/help/document/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/help/energy/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/help/find/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/help/general/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/help/helpindex/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/help/hvac/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/help/inspector/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/help/lighting/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/help/logs/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/help/preferences/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/help/profiles/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/help/reports/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/help/security/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/help/services/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/help/settings/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/help/states/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/help/workflows/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/help/zones/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/installation/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/installation/deployment/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/installation/glossary/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/installation/indexold/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/installation/lighting/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/installation/network/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/installation/quickstartguide/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/installation/shading/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/installation/tools/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/installation/training/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/installation/wiring/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/programming/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/programming/blueprint/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/programming/help/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/programming/lighting/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/programming/network/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/programming/proapp/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/programming/sam/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/programming/scm/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/programming/shading/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/rresources/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://info.savant.com/buildersupport/rresources/faqs/</loc>
-         <lastmod>2024-07-09</lastmod>
+         <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
