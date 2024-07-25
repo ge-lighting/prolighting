@@ -70,6 +70,13 @@ nav:
 #            - 'Keypad Discovery': programming/discovery.md
 #            - 'Deploy': programming/deploy.md
 #            - 'Help Sections': programming/help.md
+#
+    - 'Downloads':
+          - '': downloads/index.md
+          - 'All': downloads/index.md
+          - 'SAM': downloads/sam.md
+          - '10.x': downloads/davinci10.md
+          - '11.x': downloads/davinci11.md
 
 #<<<<<<< HEAD
 #    - 'Resources':
