@@ -1,6 +1,6 @@
 ## SAM Downloads
 
-[11.x SAM (Savant Application Manager)](https://s3.amazonaws.com/cdn.software/sam/SAMDownloads/sam-631-3.5.zip) 
+<img src="../../img/SAM.png" width="20"/> [ 11.x SAM - Savant Application Manager](https://s3.amazonaws.com/cdn.software/sam/SAMDownloads/sam-631-3.5.zip) 
 
 - Version 3.5
 
